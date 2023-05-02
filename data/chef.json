@@ -1,0 +1,296 @@
+[
+      {
+            "chef_id": 1,
+            "chefPic": "https://example.com/chef1.jpg",
+            "chefName": "Julia Child",
+            "experienceYears": 50,
+            "numRecipes": 5,
+            "recipes": [
+                  {
+                        "recipeName": "Boeuf Bourguignon",
+                        "ingredients": [
+                              "beef",
+                              "bacon",
+                              "onions",
+                              "carrots",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 5,
+                        "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
+                  },
+                  {
+                        "recipeName": "Coq au Vin",
+                        "ingredients": [
+                              "chicken",
+                              "bacon",
+                              "mushrooms",
+                              "pearl onions",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 4,
+                        "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
+                  },
+                  {
+                        "recipeName": "Tarte Tatin",
+                        "ingredients": [
+                              "apples",
+                              "sugar",
+                              "butter",
+                              "puff pastry",
+                              "vanilla ice cream"
+                        ],
+                        "cookingMethod": "Baked in a skillet",
+                        "rating": 5,
+                        "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      },
+      {
+            "chef_id": 2,
+            "chefPic": "https://example.com/chef1.jpg",
+            "chefName": "Julia Child",
+            "experienceYears": 50,
+            "numRecipes": 5,
+            "recipes": [
+                  {
+                        "recipeName": "Boeuf Bourguignon",
+                        "ingredients": [
+                              "beef",
+                              "bacon",
+                              "onions",
+                              "carrots",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 5,
+                        "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
+                  },
+                  {
+                        "recipeName": "Coq au Vin",
+                        "ingredients": [
+                              "chicken",
+                              "bacon",
+                              "mushrooms",
+                              "pearl onions",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 4,
+                        "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
+                  },
+                  {
+                        "recipeName": "Tarte Tatin",
+                        "ingredients": [
+                              "apples",
+                              "sugar",
+                              "butter",
+                              "puff pastry",
+                              "vanilla ice cream"
+                        ],
+                        "cookingMethod": "Baked in a skillet",
+                        "rating": 5,
+                        "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      },
+      {
+            "chef_id": 3,
+            "chefPic": "https://example.com/chef1.jpg",
+            "chefName": "Julia Child",
+            "experienceYears": 50,
+            "numRecipes": 5,
+            "recipes": [
+                  {
+                        "recipeName": "Boeuf Bourguignon",
+                        "ingredients": [
+                              "beef",
+                              "bacon",
+                              "onions",
+                              "carrots",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 5,
+                        "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
+                  },
+                  {
+                        "recipeName": "Coq au Vin",
+                        "ingredients": [
+                              "chicken",
+                              "bacon",
+                              "mushrooms",
+                              "pearl onions",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 4,
+                        "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
+                  },
+                  {
+                        "recipeName": "Tarte Tatin",
+                        "ingredients": [
+                              "apples",
+                              "sugar",
+                              "butter",
+                              "puff pastry",
+                              "vanilla ice cream"
+                        ],
+                        "cookingMethod": "Baked in a skillet",
+                        "rating": 5,
+                        "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      },
+      {
+            "chef_id": 4,
+            "chefPic": "https://example.com/chef1.jpg",
+            "chefName": "Julia Child",
+            "experienceYears": 50,
+            "numRecipes": 5,
+            "recipes": [
+                  {
+                        "recipeName": "Boeuf Bourguignon",
+                        "ingredients": [
+                              "beef",
+                              "bacon",
+                              "onions",
+                              "carrots",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 5,
+                        "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
+                  },
+                  {
+                        "recipeName": "Coq au Vin",
+                        "ingredients": [
+                              "chicken",
+                              "bacon",
+                              "mushrooms",
+                              "pearl onions",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 4,
+                        "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
+                  },
+                  {
+                        "recipeName": "Tarte Tatin",
+                        "ingredients": [
+                              "apples",
+                              "sugar",
+                              "butter",
+                              "puff pastry",
+                              "vanilla ice cream"
+                        ],
+                        "cookingMethod": "Baked in a skillet",
+                        "rating": 5,
+                        "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      },
+      {
+            "chef_id": 5,
+            "chefPic": "https://example.com/chef1.jpg",
+            "chefName": "Julia Child",
+            "experienceYears": 50,
+            "numRecipes": 5,
+            "recipes": [
+                  {
+                        "recipeName": "Boeuf Bourguignon",
+                        "ingredients": [
+                              "beef",
+                              "bacon",
+                              "onions",
+                              "carrots",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 5,
+                        "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
+                  },
+                  {
+                        "recipeName": "Coq au Vin",
+                        "ingredients": [
+                              "chicken",
+                              "bacon",
+                              "mushrooms",
+                              "pearl onions",
+                              "red wine"
+                        ],
+                        "cookingMethod": "Slow-cooked in a Dutch oven",
+                        "rating": 4,
+                        "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
+                  },
+                  {
+                        "recipeName": "Tarte Tatin",
+                        "ingredients": [
+                              "apples",
+                              "sugar",
+                              "butter",
+                              "puff pastry",
+                              "vanilla ice cream"
+                        ],
+                        "cookingMethod": "Baked in a skillet",
+                        "rating": 5,
+                        "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      },
+      {
+            "chef_id": 6,
+            "chefPic": "https://example.com/chef2.jpg",
+            "chefName": "Daniel Boulud",
+            "experienceYears": 35,
+            "numRecipes": 4,
+            "recipes": [
+                  {
+                        "recipeName": "Steak au Poivre",
+                        "ingredients": [
+                              "beef tenderloin",
+                              "cracked black pepper",
+                              "heavy cream",
+                              "cognac",
+                              "butter"
+                        ],
+                        "cookingMethod": "Pan-seared and sautéed with sauce",
+                        "rating": 4,
+                        "description": "A classic French steak dish coated with cracked black pepper and served with a creamy cognac sauce."
+                  },
+                  {
+                        "recipeName": "Cassoulet",
+                        "ingredients": [
+                              "white beans",
+                              "pork shoulder",
+                              "sausage",
+                              "duck confit",
+                              "breadcrumbs"
+                        ],
+                        "cookingMethod": "Slow-cooked in a casserole dish",
+                        "rating": 5,
+                        "description": "A hearty French casserole dish made with white beans, pork shoulder, sausage, and duck confit."
+                  },
+                  {
+                        "recipeName": "Tarte Flambee",
+                        "ingredients": [
+                              "flour",
+                              "water",
+                              "salt",
+                              "crème fraîche",
+                              "bacon"
+                        ],
+                        "cookingMethod": "Baked in a wood-fired oven",
+                        "rating": 3,
+                        "description": "A thin-crust pizza-like dish made with crème fraîche, onions, and bacon, baked in a wood-fired oven."
+                  }
+            ],
+            "description": "Julia Child was a legendary French chef, author, and television personality. She is best known for bringing French cuisine to the American public through her cookbook and television show, \"Mastering the Art of French Cooking.\""
+      }
+]
