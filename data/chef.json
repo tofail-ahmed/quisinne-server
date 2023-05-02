@@ -1,7 +1,7 @@
 [
       {
             "chef_id": 1,
-            "chefPic": "https://example.com/chef1.jpg",
+            "chefPic": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs-1024x683.jpg",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -50,7 +50,7 @@
       },
       {
             "chef_id": 2,
-            "chefPic": "https://example.com/chef1.jpg",
+            "chefPic": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-2_336X.jpg?v=1628774387",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -99,7 +99,7 @@
       },
       {
             "chef_id": 3,
-            "chefPic": "https://example.com/chef1.jpg",
+            "chefPic": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BsYXlcLzMwYWJjNzQ0LWQ3ZmQtNDViYi1hODg1LTI5NjZhNjZiMzgzZC0xMjEwLTY4MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -148,7 +148,7 @@
       },
       {
             "chef_id": 4,
-            "chefPic": "https://example.com/chef1.jpg",
+            "chefPic": "https://www.shropshirestar.com/resizer/eV06PadTtrC1NiZq61GsA7x68tc=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/ARBDL7I5JNHQRLCHVT4BPBOLJA.jpg",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -197,7 +197,7 @@
       },
       {
             "chef_id": 5,
-            "chefPic": "https://example.com/chef1.jpg",
+            "chefPic": "https://i2-prod.nottinghampost.com/incoming/article786799.ece/ALTERNATES/s615b/1_IH161117C-2.jpg",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -246,7 +246,7 @@
       },
       {
             "chef_id": 6,
-            "chefPic": "https://example.com/chef2.jpg",
+            "chefPic": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_560,q_60,w_560/v1/clients/neworleans/square_chef_isaac_toups_new_orleans_top_chefs_a9e893b9-d967-41dc-bf22-c21ab9c2ca0e.jpg",
             "chefName": "Daniel Boulud",
             "experienceYears": 35,
             "numRecipes": 4,
