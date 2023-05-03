@@ -15,6 +15,7 @@
                               "carrots",
                               "red wine"
                         ],
+                        "recipe_pic": "https://snippetsofparis.com/wp-content/uploads/2020/04/charcuterie-platter-2.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 5,
                         "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
@@ -28,6 +29,7 @@
                               "pearl onions",
                               "red wine"
                         ],
+                        "recipe_pic": "https://b1925919.smushcdn.com/1925919/wp-content/uploads/2020/01/french-cheese-board-idea.jpg?lossy=1&strip=1&webp=1",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 4,
                         "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
@@ -41,6 +43,7 @@
                               "puff pastry",
                               "vanilla ice cream"
                         ],
+                        "recipe_pic": "https://recipesfromapantry.com/wp-content/uploads/2017/01/How-to-Create-A-French-Charcuterie-Platter-13.jpg",
                         "cookingMethod": "Baked in a skillet",
                         "rating": 5,
                         "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
@@ -64,6 +67,7 @@
                               "carrots",
                               "red wine"
                         ],
+                        "recipe_pic": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/6/0/BX1407H_French-Charcuterie-Platter_s4x3.jpg.rend.hgtvcom.616.462.suffix/1523037935589.jpeg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 5,
                         "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
@@ -77,6 +81,7 @@
                               "pearl onions",
                               "red wine"
                         ],
+                        "recipe_pic": "https://recipesfromapantry.com/wp-content/uploads/2017/01/How-to-Create-A-French-Charcuterie-Platter-2.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 4,
                         "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
@@ -90,6 +95,7 @@
                               "puff pastry",
                               "vanilla ice cream"
                         ],
+                        "recipe_pic": "https://culinarybutterfly.com/wp-content/uploads/2018/12/Completed-platter.jpg",
                         "cookingMethod": "Baked in a skillet",
                         "rating": 5,
                         "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
@@ -113,6 +119,7 @@
                               "carrots",
                               "red wine"
                         ],
+                        "recipe_pic": "https://www.domino.com/uploads/2019/07/22/Simple-Summer-Cheese-Board-1-2.jpg?auto=webp",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 5,
                         "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
@@ -126,6 +133,7 @@
                               "pearl onions",
                               "red wine"
                         ],
+                        "recipe_pic": "https://foodmatch.com/assets/recipes/20380-4.31.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 4,
                         "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
@@ -139,7 +147,7 @@
                               "puff pastry",
                               "vanilla ice cream"
                         ],
-                        "cookingMethod": "Baked in a skillet",
+                        "recipe_pic": "https://chauffeurdrive.com.au/wp-content/uploads/2020/08/Wines.jpg",
                         "rating": 5,
                         "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
                   }
@@ -148,7 +156,7 @@
       },
       {
             "chef_id": 4,
-            "chefPic": "https://www.shropshirestar.com/resizer/eV06PadTtrC1NiZq61GsA7x68tc=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/ARBDL7I5JNHQRLCHVT4BPBOLJA.jpg",
+            "chefPic": "https://panlasangpinoy.com/wp-content/uploads/2016/05/what-is-a-chef-de-cuisiine.jpg",
             "chefName": "Julia Child",
             "experienceYears": 50,
             "numRecipes": 5,
@@ -162,6 +170,7 @@
                               "carrots",
                               "red wine"
                         ],
+                        "recipe_pic": "https://images.squarespace-cdn.com/content/v1/5d773a253845a90f7182e473/1637628002071-818GH9Q87PMMQBS7M2HT/M%26M_Shop_KateShanasy_Nov21_lores-1597.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 5,
                         "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
@@ -175,6 +184,7 @@
                               "pearl onions",
                               "red wine"
                         ],
+                        "recipe_pic": "https://media.istockphoto.com/id/491618240/photo/cheese-plate.jpg?s=612x612&w=0&k=20&c=DkV2U8LAZa9p164Ac2RojPB4LPzAXYYwvSsjZutWrI4=",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 4,
                         "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
@@ -188,6 +198,7 @@
                               "puff pastry",
                               "vanilla ice cream"
                         ],
+                        "recipe_pic": "https://thumbs.dreamstime.com/z/cheese-platter-french-organic-cheeses-figs-nuts-gray-background-top-view-tasty-starter-164823907.jpg",
                         "cookingMethod": "Baked in a skillet",
                         "rating": 5,
                         "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
@@ -211,6 +222,7 @@
                               "carrots",
                               "red wine"
                         ],
+                        "recipe_pic": "https://thumbs.dreamstime.com/z/cheese-platter-french-organic-cheeses-figs-nuts-gray-background-top-view-tasty-starter-164823907.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 5,
                         "description": "A classic French beef stew, slow-cooked in red wine until tender and flavorful."
@@ -224,6 +236,7 @@
                               "pearl onions",
                               "red wine"
                         ],
+                        "recipe_pic": "https://images.squarespace-cdn.com/content/v1/5e484ab628c78d6f7e602d73/1606942390121-J5R0EDRMNR9AA80RQVOT/French+Cheese+Board.jpg",
                         "cookingMethod": "Slow-cooked in a Dutch oven",
                         "rating": 4,
                         "description": "A flavorful chicken dish slow-cooked in red wine with bacon, mushrooms, and pearl onions."
@@ -237,6 +250,7 @@
                               "puff pastry",
                               "vanilla ice cream"
                         ],
+                        "recipe_pic": "https://images.squarespace-cdn.com/content/v1/5e484ab628c78d6f7e602d73/1606948814059-72X48I1F4PW0YIQB9AMO/creating+French+cheese+board.JPG",
                         "cookingMethod": "Baked in a skillet",
                         "rating": 5,
                         "description": "A classic French dessert consisting of caramelized apples baked in a skillet with puff pastry on top."
@@ -260,6 +274,7 @@
                               "cognac",
                               "butter"
                         ],
+                        "recipe_pic": "https://i0.wp.com/thegoodlifefrance.com/wp-content/uploads/2021/04/how-to-make-a-french-cheese-board.jpg?ssl=1",
                         "cookingMethod": "Pan-seared and sautéed with sauce",
                         "rating": 4,
                         "description": "A classic French steak dish coated with cracked black pepper and served with a creamy cognac sauce."
@@ -273,6 +288,7 @@
                               "duck confit",
                               "breadcrumbs"
                         ],
+                        "recipe_pic": "https://cdn.shopify.com/s/files/1/0266/1371/0930/articles/The_perfect_French_Cheeses-1200x900.jpg?v=1571521906",
                         "cookingMethod": "Slow-cooked in a casserole dish",
                         "rating": 5,
                         "description": "A hearty French casserole dish made with white beans, pork shoulder, sausage, and duck confit."
@@ -286,6 +302,7 @@
                               "crème fraîche",
                               "bacon"
                         ],
+                        "recipe_pic": "https://b1925919.smushcdn.com/1925919/wp-content/uploads/2020/01/french-cheese-board-idea.jpg?lossy=1&strip=1&webp=1",
                         "cookingMethod": "Baked in a wood-fired oven",
                         "rating": 3,
                         "description": "A thin-crust pizza-like dish made with crème fraîche, onions, and bacon, baked in a wood-fired oven."
